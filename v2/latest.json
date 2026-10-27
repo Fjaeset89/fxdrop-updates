@@ -1,10 +1,10 @@
 {
-  "version": "1.2.5",
-  "notes": "FX Drop's Premiere plugin now starts together with Premiere, so presets go the new, smooth way and Ctrl+Z undoes them in one step. Restart Premiere once after this update. Also logs any moment Premiere freezes, to track down slowdowns.",
-  "bundle": "releases/fxdrop-1.2.5.bundle",
-  "sha256": "27d749d8255fbfb20a657f4bb04e5278a84cede71930064f7a3b73a678eaa29b",
-  "size": 548310,
+  "version": "1.2.6",
+  "notes": "Fixes FX Drop's window helper, which never started: the search box now leaves Premiere in focus (no more freeze after picking something). Fixes the Premiere plugin connection (one-step Ctrl+Z).",
+  "bundle": "releases/fxdrop-1.2.6.bundle",
+  "sha256": "b8015073602e41ba4557e7242334c07f6bad6db26f28a48e2b8a1c19c09a541e",
+  "size": 550346,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T17:33:57.645Z",
-  "signature": "rcyh8TWaVAOKqgbCPH6DrOrTogAGMDh8SHChx9TWBU5HFYXXi4mkY4NQhQUiD87PAHVBaCRLy2N/wPZq8qOaCw=="
+  "date": "2026-10-27T17:50:10.406Z",
+  "signature": "XCw5MSRP1KCbd9AJYNBca+ZcdQsJZtR+Er3IJiJ/uqTiYAHf+MbHfs/hlq8yIQ0EHCtdkMTo8VHy6vw3/Xa8Aw=="
 }
