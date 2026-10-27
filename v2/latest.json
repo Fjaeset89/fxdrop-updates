@@ -1,10 +1,10 @@
 {
-  "version": "1.2.3",
-  "notes": "The search box no longer takes focus from Premiere, so Premiere doesn't freeze after you pick something. New: Check for updates in the tray icon's right-click menu.",
-  "bundle": "releases/fxdrop-1.2.3.bundle",
-  "sha256": "79b99f03d728328d0929681fc64515dbf8f139851abe8a62b02430d9850251dd",
-  "size": 545011,
+  "version": "1.2.4",
+  "notes": "FX Drop's Premiere plugin now starts together with Premiere, so presets go the new, smooth way and Ctrl+Z undoes them in one step. Restart Premiere once after this update. Also logs any moment Premiere freezes, to track down slowdowns.",
+  "bundle": "releases/fxdrop-1.2.4.bundle",
+  "sha256": "73e50f0e2cc875484bdae9ae643ab26532c6f06284d7070dbe81321941f955a6",
+  "size": 572496,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T17:07:45.434Z",
-  "signature": "v72z6vb306S44rTwWyhd8iFfBcYS+i9+WtKk3VAPOL28Wkl1fVML0cI7l/+nHM+OxEACNewZHdWIXj4MTHLXDA=="
+  "date": "2026-10-27T17:33:04.074Z",
+  "signature": "ZjOSPLBeUopIacHgU4mFmyZWjDEEuujvbFezbxyycDYvVCRRuWH9PVaMcPcgNnI7lmwhQjMO+w0oNExsM1jRCA=="
 }
