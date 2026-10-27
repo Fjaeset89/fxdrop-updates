@@ -1,10 +1,10 @@
 {
-  "version": "1.2.2",
-  "notes": "Premiere plugin installs correctly on first start.",
-  "bundle": "releases/fxdrop-1.2.2.bundle",
-  "sha256": "db738057f8d4680d69092810d57e7b8e21517236f1abd9e353812fe03387934f",
-  "size": 535048,
+  "version": "1.2.3",
+  "notes": "The search box no longer takes focus from Premiere, so Premiere doesn't freeze after you pick something. New: Check for updates in the tray icon's right-click menu.",
+  "bundle": "releases/fxdrop-1.2.3.bundle",
+  "sha256": "79b99f03d728328d0929681fc64515dbf8f139851abe8a62b02430d9850251dd",
+  "size": 545011,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T16:46:58.963Z",
-  "signature": "YWMZTUT9N6mEcPYl7coKrHy8JTelSJTI02PFM0fAN3n/42ZglzGUJgGdVi6sXUXLMGW6yJy6HHuXWzUCHLTaAA=="
+  "date": "2026-10-27T17:07:45.434Z",
+  "signature": "v72z6vb306S44rTwWyhd8iFfBcYS+i9+WtKk3VAPOL28Wkl1fVML0cI7l/+nHM+OxEACNewZHdWIXj4MTHLXDA=="
 }
