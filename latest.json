@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
-  "notes": "First version with automatic updates",
-  "bundle": "releases/fxdrop-1.1.0.bundle",
-  "sha256": "54c0266ea86279096e593fee0cc779a8418848e3c455a9b9476f67f68881ee62",
-  "size": 509688,
+  "version": "1.1.1",
+  "notes": "Presets: Uniform Scale and other checkboxes now match the preset (fixes KMART DEALT HAND ZOOM IN). Timing details in the log.",
+  "bundle": "releases/fxdrop-1.1.1.bundle",
+  "sha256": "5eb61096d8533909aa4a2fd62e77f283fd97e7eca887c9c8a2770b8f2cff702c",
+  "size": 510940,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T11:52:22.885Z",
-  "signature": "jiMXFZOVXgXzNPrx7XwDT9NBd2hl0OCLwAM5BiLOyNcBAh9MeJpY/iJOcsrjEmPw4U2EvEvf0tWt7ReRjl2sAA=="
+  "date": "2026-10-27T12:28:10.940Z",
+  "signature": "UTv614BG5XH7y/jG9goFN1NxkPtM31MyiuxlJGUls8dRimKVU+3yHfHmjvLoam64h/V+ONNaOA3vQ8ixpW1+Cg=="
 }
