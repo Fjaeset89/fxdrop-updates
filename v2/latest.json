@@ -1,10 +1,10 @@
 {
-  "version": "1.2.6",
-  "notes": "Fixes FX Drop's window helper, which never started: the search box now leaves Premiere in focus (no more freeze after picking something). Fixes the Premiere plugin connection (one-step Ctrl+Z).",
-  "bundle": "releases/fxdrop-1.2.6.bundle",
-  "sha256": "b8015073602e41ba4557e7242334c07f6bad6db26f28a48e2b8a1c19c09a541e",
-  "size": 550346,
+  "version": "1.2.7",
+  "notes": "All FX Drop messages now appear in the same place: top centre of the screen Premiere is on.",
+  "bundle": "releases/fxdrop-1.2.7.bundle",
+  "sha256": "a216a3bf338cb932e5828aa1c722b673d16d2dc16a86f26df8917fdeee1b500b",
+  "size": 550582,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T17:50:10.406Z",
-  "signature": "XCw5MSRP1KCbd9AJYNBca+ZcdQsJZtR+Er3IJiJ/uqTiYAHf+MbHfs/hlq8yIQ0EHCtdkMTo8VHy6vw3/Xa8Aw=="
+  "date": "2026-10-27T18:08:06.378Z",
+  "signature": "VlPY6akBrmtzg9nYP1fVX2GzfoSYREPzqEZNU3HBkjIgbTqrXbl57L/jCnYCiOv25U0AWw28Vsg2dhobyhFZAQ=="
 }
