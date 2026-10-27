@@ -1,10 +1,10 @@
 {
-  "version": "1.2.7",
-  "notes": "All FX Drop messages now appear in the same place: top centre of the screen Premiere is on.",
-  "bundle": "releases/fxdrop-1.2.7.bundle",
-  "sha256": "a216a3bf338cb932e5828aa1c722b673d16d2dc16a86f26df8917fdeee1b500b",
-  "size": 550582,
+  "version": "1.2.8",
+  "notes": "All FX Drop messages appear in the same place (top centre of Premiere's screen). Ctrl+Z now undoes a preset in one press (after Premiere restarts once).",
+  "bundle": "releases/fxdrop-1.2.8.bundle",
+  "sha256": "c9e657b460ce9b9f2f9a0bd472ddd959ce220642494419d2a9767772d574e027",
+  "size": 551730,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T18:08:06.378Z",
-  "signature": "VlPY6akBrmtzg9nYP1fVX2GzfoSYREPzqEZNU3HBkjIgbTqrXbl57L/jCnYCiOv25U0AWw28Vsg2dhobyhFZAQ=="
+  "date": "2026-10-27T18:12:48.262Z",
+  "signature": "g+4s2VuOsIXiFfhP5RkCalcIPU5eDh/yvdptEWM0AjnmYD0DkwRiViDeZoEGR9WzVnL5TttKpJNZqUtX3WmADw=="
 }
