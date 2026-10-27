@@ -1,0 +1,10 @@
+{
+  "version": "1.2.1",
+  "notes": "Presets and effects are one undo step (new Premiere plugin). Updates install safely and FX Drop always reopens; the old version is deleted afterwards.",
+  "bundle": "releases/fxdrop-1.2.1.bundle",
+  "sha256": "dcbb137a319102989b94b5d6d76cdbd5dd752d1eccdb5dcacaeb0e160760c1f3",
+  "size": 535024,
+  "minElectron": "44.0.0",
+  "date": "2026-10-27T13:18:41.839Z",
+  "signature": "WOeZFfw+cOWWM/S8c9OjT1+c9sU9okLqZHjBdbDWJ6bSLJ4Zn4KNcpy5r95gw0CBOEXiZhDT1AFFst9ZfFBQCA=="
+}
