@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
-  "notes": "New Premiere plugin: presets and effects are one undo step and faster. Updates no longer interrupt your work and FX Drop always reopens after updating.",
-  "bundle": "releases/fxdrop-1.2.0.bundle",
-  "sha256": "104d0ad0f32dda9da3647b8c466aaf6c797317f516c3063078ad0ed5d03dcf99",
-  "size": 534272,
+  "version": "1.1.0",
+  "notes": "First version with automatic updates",
+  "bundle": "releases/fxdrop-1.1.0.bundle",
+  "sha256": "54c0266ea86279096e593fee0cc779a8418848e3c455a9b9476f67f68881ee62",
+  "size": 509688,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T13:04:09.768Z",
-  "signature": "rTKxUYZJlXuSEdK0hsXGlE0Z7j/2eu5q5Lee3wnNRBubhnXgovZoKQEy6TbhJI0FITiDJjW7nKCLSbatwNg3Bg=="
+  "date": "2026-10-27T11:52:22.885Z",
+  "signature": "jiMXFZOVXgXzNPrx7XwDT9NBd2hl0OCLwAM5BiLOyNcBAh9MeJpY/iJOcsrjEmPw4U2EvEvf0tWt7ReRjl2sAA=="
 }
