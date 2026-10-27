@@ -1,10 +1,10 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "notes": "FX Drop's Premiere plugin now starts together with Premiere, so presets go the new, smooth way and Ctrl+Z undoes them in one step. Restart Premiere once after this update. Also logs any moment Premiere freezes, to track down slowdowns.",
-  "bundle": "releases/fxdrop-1.2.4.bundle",
-  "sha256": "73e50f0e2cc875484bdae9ae643ab26532c6f06284d7070dbe81321941f955a6",
-  "size": 572496,
+  "bundle": "releases/fxdrop-1.2.5.bundle",
+  "sha256": "27d749d8255fbfb20a657f4bb04e5278a84cede71930064f7a3b73a678eaa29b",
+  "size": 548310,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T17:33:04.074Z",
-  "signature": "ZjOSPLBeUopIacHgU4mFmyZWjDEEuujvbFezbxyycDYvVCRRuWH9PVaMcPcgNnI7lmwhQjMO+w0oNExsM1jRCA=="
+  "date": "2026-10-27T17:33:57.645Z",
+  "signature": "rcyh8TWaVAOKqgbCPH6DrOrTogAGMDh8SHChx9TWBU5HFYXXi4mkY4NQhQUiD87PAHVBaCRLy2N/wPZq8qOaCw=="
 }
