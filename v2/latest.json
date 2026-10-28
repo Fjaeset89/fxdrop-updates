@@ -1,10 +1,10 @@
 {
-  "version": "1.2.8",
-  "notes": "All FX Drop messages appear in the same place (top centre of Premiere's screen). Ctrl+Z now undoes a preset in one press (after Premiere restarts once).",
-  "bundle": "releases/fxdrop-1.2.8.bundle",
-  "sha256": "c9e657b460ce9b9f2f9a0bd472ddd959ce220642494419d2a9767772d574e027",
-  "size": 551730,
+  "version": "1.2.9",
+  "notes": "Mouse clicks work in the search box again (it no longer takes focus from Premiere, so FX Drop now passes your clicks into it).",
+  "bundle": "releases/fxdrop-1.2.9.bundle",
+  "sha256": "aa16d688f88e8f077ee2249d554bb6d2e9bb379a2d296de5574ada8d323b89ee",
+  "size": 552423,
   "minElectron": "44.0.0",
-  "date": "2026-10-27T18:12:48.262Z",
-  "signature": "g+4s2VuOsIXiFfhP5RkCalcIPU5eDh/yvdptEWM0AjnmYD0DkwRiViDeZoEGR9WzVnL5TttKpJNZqUtX3WmADw=="
+  "date": "2026-10-28T11:09:25.711Z",
+  "signature": "8knb/SG0zqxjPiFn7gCBXk3tq8hfIp848U7YVkh/a/sSRnLir7DzQrrxNvmRQFrUCtBLg64nHviHYX76Tem9Aw=="
 }
