@@ -1,10 +1,10 @@
 {
-  "version": "1.2.12",
-  "notes": "Audio presets like Reverb now go through the Premiere plugin: 2 Ctrl+Z instead of 4. Single effects (e.g. Transform) are added by the plugin too. Restart Premiere once after this update.",
-  "bundle": "releases/fxdrop-1.2.12.bundle",
-  "sha256": "ead4016ed7671b6c71a14af677e815f44080c33a48dcf0d4fc955715d3bfe65f",
-  "size": 555362,
+  "version": "1.2.13",
+  "notes": "Fixes effects being added several times (e.g. 4 blurs). FX Drop now never tries again or switches route once Premiere has added anything.",
+  "bundle": "releases/fxdrop-1.2.13.bundle",
+  "sha256": "ea4e878a1e3d8f2e0281d5299b629f75fea0b4956650c63df1e864ad7113a940",
+  "size": 556109,
   "minElectron": "44.0.0",
-  "date": "2026-10-28T12:20:08.497Z",
-  "signature": "yPi/xPBqv/2x4nwVDlac6L1gNKqvTFVkPo6zVvdb61tXZ5ioPfjA0e7+xeDjCsjEJt/8t/i6StwC9zzCftP5DA=="
+  "date": "2026-10-28T14:45:52.429Z",
+  "signature": "lAgvhLTJJcSAinmdFdLDfHoZn9ZrHuwSuHsuLopuo9sJxRCj/Ugh7bNgoKdrj9M2aAUq0g6Mrk2umSYbe33ADw=="
 }
