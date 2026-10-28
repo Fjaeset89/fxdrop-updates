@@ -1,10 +1,10 @@
 {
-  "version": "1.2.9",
-  "notes": "Mouse clicks work in the search box again (it no longer takes focus from Premiere, so FX Drop now passes your clicks into it).",
-  "bundle": "releases/fxdrop-1.2.9.bundle",
-  "sha256": "aa16d688f88e8f077ee2249d554bb6d2e9bb379a2d296de5574ada8d323b89ee",
-  "size": 552423,
+  "version": "1.2.10",
+  "notes": "Fixes 'The script object is no longer valid' when applying a preset. If the Premiere plugin can't apply something, FX Drop now applies it the classic way instead of showing an error.",
+  "bundle": "releases/fxdrop-1.2.10.bundle",
+  "sha256": "782faec71a3e7eecd9e8017a497af4da5ea068db033eacb601ddd52032de72c7",
+  "size": 553758,
   "minElectron": "44.0.0",
-  "date": "2026-10-28T11:09:25.711Z",
-  "signature": "8knb/SG0zqxjPiFn7gCBXk3tq8hfIp848U7YVkh/a/sSRnLir7DzQrrxNvmRQFrUCtBLg64nHviHYX76Tem9Aw=="
+  "date": "2026-10-28T11:21:47.020Z",
+  "signature": "4EZvG2Aa7YBK8s476USZwF7FRjMMTQzuBA9CPVkSf7VcbMOdmp9CP1VVF9nQ5GLQuRFZqSjEAjqHz9KA+NL3Dg=="
 }
