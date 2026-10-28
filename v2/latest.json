@@ -1,10 +1,10 @@
 {
-  "version": "1.2.10",
-  "notes": "Fixes 'The script object is no longer valid' when applying a preset. If the Premiere plugin can't apply something, FX Drop now applies it the classic way instead of showing an error.",
-  "bundle": "releases/fxdrop-1.2.10.bundle",
-  "sha256": "782faec71a3e7eecd9e8017a497af4da5ea068db033eacb601ddd52032de72c7",
-  "size": 553758,
+  "version": "1.2.11",
+  "notes": "Check for updates now sees a new version right away. Includes the fix for 'The script object is no longer valid'.",
+  "bundle": "releases/fxdrop-1.2.11.bundle",
+  "sha256": "d2741022285a6fa253cc906d9571b44166784edc05d0a0056ec530abceab61c8",
+  "size": 554425,
   "minElectron": "44.0.0",
-  "date": "2026-10-28T11:21:47.020Z",
-  "signature": "4EZvG2Aa7YBK8s476USZwF7FRjMMTQzuBA9CPVkSf7VcbMOdmp9CP1VVF9nQ5GLQuRFZqSjEAjqHz9KA+NL3Dg=="
+  "date": "2026-10-28T11:25:24.658Z",
+  "signature": "p/1JA9xhF6qg+LfmyQrmX5rTK45yMZw/9oRf3dM/SyqlMnFYKI+PukWN0n27vanx0cjPySZIQKh8rrnDPYqgCA=="
 }
