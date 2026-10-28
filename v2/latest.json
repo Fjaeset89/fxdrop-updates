@@ -1,10 +1,10 @@
 {
-  "version": "1.2.11",
-  "notes": "Check for updates now sees a new version right away. Includes the fix for 'The script object is no longer valid'.",
-  "bundle": "releases/fxdrop-1.2.11.bundle",
-  "sha256": "d2741022285a6fa253cc906d9571b44166784edc05d0a0056ec530abceab61c8",
-  "size": 554425,
+  "version": "1.2.12",
+  "notes": "Audio presets like Reverb now go through the Premiere plugin: 2 Ctrl+Z instead of 4. Single effects (e.g. Transform) are added by the plugin too. Restart Premiere once after this update.",
+  "bundle": "releases/fxdrop-1.2.12.bundle",
+  "sha256": "ead4016ed7671b6c71a14af677e815f44080c33a48dcf0d4fc955715d3bfe65f",
+  "size": 555362,
   "minElectron": "44.0.0",
-  "date": "2026-10-28T11:25:24.658Z",
-  "signature": "p/1JA9xhF6qg+LfmyQrmX5rTK45yMZw/9oRf3dM/SyqlMnFYKI+PukWN0n27vanx0cjPySZIQKh8rrnDPYqgCA=="
+  "date": "2026-10-28T12:20:08.497Z",
+  "signature": "yPi/xPBqv/2x4nwVDlac6L1gNKqvTFVkPo6zVvdb61tXZ5ioPfjA0e7+xeDjCsjEJt/8t/i6StwC9zzCftP5DA=="
 }
