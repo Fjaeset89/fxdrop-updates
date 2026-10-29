@@ -1,10 +1,10 @@
 {
-  "version": "1.2.17",
-  "notes": "Fixes 'Copy an image first' when pasting a copied picture with Ctrl+V: FX Drop now fetches the picture another way when the clipboard is busy.",
-  "bundle": "releases/fxdrop-1.2.17.bundle",
-  "sha256": "b999adf543029bd1b77e6aea542851482ec913e48427c29846faca65f5bc16b7",
-  "size": 573984,
+  "version": "1.2.18",
+  "notes": "Fixes pasting a copied picture with Ctrl+V (the picture couldn't be saved next to the project).",
+  "bundle": "releases/fxdrop-1.2.18.bundle",
+  "sha256": "486b4a5d44b47b5241e627f9873bbabf16f9071b4f3f507885113b30158bcfb8",
+  "size": 574174,
   "minElectron": "44.0.0",
-  "date": "2026-10-29T14:24:26.630Z",
-  "signature": "ToFudpyHLXfHVDq4TqG8nTIKnB9CRJjaPLEQr9WZ8gtrST/IBj1Wai8lm62XNCSW7k93PIue2Qks/zvtkVZgDA=="
+  "date": "2026-10-29T14:33:40.372Z",
+  "signature": "L/h1sp7OaMnxFw7qlauEEZ3bY0/NbZj3APmukKmucx+tpecNEXC0OGwV7F/BnVj5OL++EMd6DhSCv7CONSGlDg=="
 }
