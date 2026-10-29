@@ -1,10 +1,10 @@
 {
-  "version": "1.2.18",
-  "notes": "Fixes pasting a copied picture with Ctrl+V (the picture couldn't be saved next to the project).",
-  "bundle": "releases/fxdrop-1.2.18.bundle",
-  "sha256": "486b4a5d44b47b5241e627f9873bbabf16f9071b4f3f507885113b30158bcfb8",
-  "size": 574174,
+  "version": "1.2.19",
+  "notes": "What's new page in Settings, tidier settings with a menu",
+  "bundle": "releases/fxdrop-1.2.19.bundle",
+  "sha256": "cd4d1c0f61751d1b6bd75a20188b5001054820c4ea66ecbfaea8f71e32a7177b",
+  "size": 580502,
   "minElectron": "44.0.0",
-  "date": "2026-10-29T14:33:40.372Z",
-  "signature": "L/h1sp7OaMnxFw7qlauEEZ3bY0/NbZj3APmukKmucx+tpecNEXC0OGwV7F/BnVj5OL++EMd6DhSCv7CONSGlDg=="
+  "date": "2026-10-29T15:10:08.127Z",
+  "signature": "0cwooCrtlOCK8mRoPZgTFl08Ihh3xKzg01sC+FKmCqBRA5ApUvDbwYxkC6nUgVzLufOQ8GyZsYvPZHV8POIlAg=="
 }
