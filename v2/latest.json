@@ -1,10 +1,10 @@
 {
-  "version": "1.2.16",
-  "notes": "Smart Paste is now built in (Alt+V, no AutoHotkey; the old Smart Paste is switched off). Ctrl+V in Premiere pastes a copied picture. Pictures from more browsers are recognised.",
-  "bundle": "releases/fxdrop-1.2.16.bundle",
-  "sha256": "4fd062ef1d5e17de0613325d5e7aac36d9182571902bc39012f24ac312b901ef",
-  "size": 572395,
+  "version": "1.2.17",
+  "notes": "Fixes 'Copy an image first' when pasting a copied picture with Ctrl+V: FX Drop now fetches the picture another way when the clipboard is busy.",
+  "bundle": "releases/fxdrop-1.2.17.bundle",
+  "sha256": "b999adf543029bd1b77e6aea542851482ec913e48427c29846faca65f5bc16b7",
+  "size": 573984,
   "minElectron": "44.0.0",
-  "date": "2026-10-29T14:07:52.984Z",
-  "signature": "/AC1aLsAbgHJlRg+KWB0HnGj6uHfTHrEvq3xSMrEhQ6+iPfyQw82L++lzM/mIaqQ0QvHseF5tgwiD8xvSH3PDw=="
+  "date": "2026-10-29T14:24:26.630Z",
+  "signature": "ToFudpyHLXfHVDq4TqG8nTIKnB9CRJjaPLEQr9WZ8gtrST/IBj1Wai8lm62XNCSW7k93PIue2Qks/zvtkVZgDA=="
 }
