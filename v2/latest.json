@@ -1,10 +1,10 @@
 {
-  "version": "1.2.14",
-  "notes": "New setting: Sound effect volume (dB). Every sound FX Drop puts in starts that much quieter (default -6 dB), also the sound of visual FX.",
-  "bundle": "releases/fxdrop-1.2.14.bundle",
-  "sha256": "899cb148fcfba693748002c4c9a308a2ff6c2fd727d8eec9ab6498ce10f0e2eb",
-  "size": 557360,
+  "version": "1.2.15",
+  "notes": "New: paste a copied image. Copy an image (e.g. from Google), open FX Drop and press Ctrl+V - it lands at the playhead, fitted to the frame, with a slow 100% -> 105% zoom (Transform effect). Both can be switched off in Settings.",
+  "bundle": "releases/fxdrop-1.2.15.bundle",
+  "sha256": "fae84d16f35680cdc857678305f7f3110e90328ced8e6ea5cd8415c084969035",
+  "size": 562776,
   "minElectron": "44.0.0",
-  "date": "2026-10-29T13:24:43.211Z",
-  "signature": "aoflfHIWMguQI1TCIlyLWdNk1qtXc4qZ9+vgqhyPPWgV5s7iiNu7HC+tyV/seQSpD8G9vKbHBZ7bwoDgYBjcDw=="
+  "date": "2026-10-29T13:54:27.247Z",
+  "signature": "8kSbmuCjKXAtKqKO2VXFZQ2YoW+ZzdKbnEhx0NPFiVukSh0Oyo/oM58nDeN5hQXPPtPK0t0+r6WzOrR8hReRDg=="
 }
