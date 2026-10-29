@@ -1,10 +1,10 @@
 {
-  "version": "1.2.13",
-  "notes": "Fixes effects being added several times (e.g. 4 blurs). FX Drop now never tries again or switches route once Premiere has added anything.",
-  "bundle": "releases/fxdrop-1.2.13.bundle",
-  "sha256": "ea4e878a1e3d8f2e0281d5299b629f75fea0b4956650c63df1e864ad7113a940",
-  "size": 556109,
+  "version": "1.2.14",
+  "notes": "New setting: Sound effect volume (dB). Every sound FX Drop puts in starts that much quieter (default -6 dB), also the sound of visual FX.",
+  "bundle": "releases/fxdrop-1.2.14.bundle",
+  "sha256": "899cb148fcfba693748002c4c9a308a2ff6c2fd727d8eec9ab6498ce10f0e2eb",
+  "size": 557360,
   "minElectron": "44.0.0",
-  "date": "2026-10-28T14:45:52.429Z",
-  "signature": "lAgvhLTJJcSAinmdFdLDfHoZn9ZrHuwSuHsuLopuo9sJxRCj/Ugh7bNgoKdrj9M2aAUq0g6Mrk2umSYbe33ADw=="
+  "date": "2026-10-29T13:24:43.211Z",
+  "signature": "aoflfHIWMguQI1TCIlyLWdNk1qtXc4qZ9+vgqhyPPWgV5s7iiNu7HC+tyV/seQSpD8G9vKbHBZ7bwoDgYBjcDw=="
 }
