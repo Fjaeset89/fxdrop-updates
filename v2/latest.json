@@ -1,10 +1,10 @@
 {
-  "version": "1.2.15",
-  "notes": "New: paste a copied image. Copy an image (e.g. from Google), open FX Drop and press Ctrl+V - it lands at the playhead, fitted to the frame, with a slow 100% -> 105% zoom (Transform effect). Both can be switched off in Settings.",
-  "bundle": "releases/fxdrop-1.2.15.bundle",
-  "sha256": "fae84d16f35680cdc857678305f7f3110e90328ced8e6ea5cd8415c084969035",
-  "size": 562776,
+  "version": "1.2.16",
+  "notes": "Smart Paste is now built in (Alt+V, no AutoHotkey; the old Smart Paste is switched off). Ctrl+V in Premiere pastes a copied picture. Pictures from more browsers are recognised.",
+  "bundle": "releases/fxdrop-1.2.16.bundle",
+  "sha256": "4fd062ef1d5e17de0613325d5e7aac36d9182571902bc39012f24ac312b901ef",
+  "size": 572395,
   "minElectron": "44.0.0",
-  "date": "2026-10-29T13:54:27.247Z",
-  "signature": "8kSbmuCjKXAtKqKO2VXFZQ2YoW+ZzdKbnEhx0NPFiVukSh0Oyo/oM58nDeN5hQXPPtPK0t0+r6WzOrR8hReRDg=="
+  "date": "2026-10-29T14:07:52.984Z",
+  "signature": "/AC1aLsAbgHJlRg+KWB0HnGj6uHfTHrEvq3xSMrEhQ6+iPfyQw82L++lzM/mIaqQ0QvHseF5tgwiD8xvSH3PDw=="
 }
