@@ -1,10 +1,10 @@
 {
-  "version": "1.2.19",
-  "notes": "What's new page in Settings, tidier settings with a menu",
-  "bundle": "releases/fxdrop-1.2.19.bundle",
-  "sha256": "cd4d1c0f61751d1b6bd75a20188b5001054820c4ea66ecbfaea8f71e32a7177b",
-  "size": 580502,
+  "version": "1.2.20",
+  "notes": "Fold folders in the search box",
+  "bundle": "releases/fxdrop-1.2.20.bundle",
+  "sha256": "23c79205645db9f23e4c2cadedba7c8a04932675d78a2c77fb1b9fc924893242",
+  "size": 584496,
   "minElectron": "44.0.0",
-  "date": "2026-10-29T15:10:08.127Z",
-  "signature": "0cwooCrtlOCK8mRoPZgTFl08Ihh3xKzg01sC+FKmCqBRA5ApUvDbwYxkC6nUgVzLufOQ8GyZsYvPZHV8POIlAg=="
+  "date": "2026-11-02T11:24:03.739Z",
+  "signature": "7uv9eBcENWyOyDWRYO9zgYpyzPOvRPumfc6LPNkkB3U1/OzqO2+YmOhy3fX/VKjj7B1BLYaNDu5opAPcNoAVDg=="
 }
