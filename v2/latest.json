@@ -1,10 +1,10 @@
 {
-  "version": "1.2.20",
-  "notes": "Fold folders in the search box",
-  "bundle": "releases/fxdrop-1.2.20.bundle",
-  "sha256": "23c79205645db9f23e4c2cadedba7c8a04932675d78a2c77fb1b9fc924893242",
-  "size": 584496,
+  "version": "1.2.21",
+  "notes": "Presets land instantly as one undo step; no more fallback that broke Ctrl+Z",
+  "bundle": "releases/fxdrop-1.2.21.bundle",
+  "sha256": "8b25a5cb9c697b07ba40b02f83494db9bdcdd89abfa7eb525dc5ef553f4a263f",
+  "size": 589142,
   "minElectron": "44.0.0",
-  "date": "2026-11-02T11:24:03.739Z",
-  "signature": "7uv9eBcENWyOyDWRYO9zgYpyzPOvRPumfc6LPNkkB3U1/OzqO2+YmOhy3fX/VKjj7B1BLYaNDu5opAPcNoAVDg=="
+  "date": "2026-11-06T11:55:03.327Z",
+  "signature": "flbK+lFb9yFMV7aLlt/TSNBjiuID4AdfwIUMJoeKOhW/8jKChdM9ZCtaP7JsnXCqmzmrXJUEiK0pFOembUlBAg=="
 }
