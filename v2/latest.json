@@ -1,10 +1,10 @@
 {
-  "version": "1.2.21",
-  "notes": "Presets land instantly as one undo step; no more fallback that broke Ctrl+Z",
-  "bundle": "releases/fxdrop-1.2.21.bundle",
-  "sha256": "8b25a5cb9c697b07ba40b02f83494db9bdcdd89abfa7eb525dc5ef553f4a263f",
-  "size": 589142,
+  "version": "1.2.22",
+  "notes": "Presets retry briefly while Premiere is busy; reasons logged",
+  "bundle": "releases/fxdrop-1.2.22.bundle",
+  "sha256": "668e20cfaeb1a63d2f4e1c584b960e651dbee769854a34d0313e93a776df4f7b",
+  "size": 590611,
   "minElectron": "44.0.0",
-  "date": "2026-11-06T11:55:03.327Z",
-  "signature": "flbK+lFb9yFMV7aLlt/TSNBjiuID4AdfwIUMJoeKOhW/8jKChdM9ZCtaP7JsnXCqmzmrXJUEiK0pFOembUlBAg=="
+  "date": "2026-11-06T12:54:47.115Z",
+  "signature": "zrgWqzPU75wksPuavshQOAbUygYPME8ObP+dilrihFTjgZtOLYrnvDzCbGpj7h/2SOSzFkVLxGTUPBVAgoVjBg=="
 }
