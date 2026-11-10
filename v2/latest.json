@@ -1,10 +1,10 @@
 {
-  "version": "1.2.23",
-  "notes": "Search box checks that it really appears and rebuilds itself if not",
-  "bundle": "releases/fxdrop-1.2.23.bundle",
-  "sha256": "80d7d65786b5eab76368515cf44e568c9947d2bcf254e62a6f21776e44fbe3f6",
-  "size": 592037,
+  "version": "1.2.24",
+  "notes": "Star profiles: a separate starred list per channel",
+  "bundle": "releases/fxdrop-1.2.24.bundle",
+  "sha256": "84329ad754bac14f8c55c50070c0676ee6f453545536feb0bd77c9aa8d8b0cfd",
+  "size": 595116,
   "minElectron": "44.0.0",
-  "date": "2026-11-10T12:09:43.223Z",
-  "signature": "UQQRw9OOiT6Dbn7bJfItjndUww8h1b0yFsyF2i9T0sNmP48AXYqP2njs3457FwMVBwN0G89W5jF1mp4Drv1vDw=="
+  "date": "2026-11-10T13:14:04.936Z",
+  "signature": "lDTsN8iU9p7wlWL36ZAZGeE7iUbYu5vylJ1CkPCGTcRp7XHIzj22fPpi7zqGDKCtUlksJM7zeyG3ZkYo+fsfDQ=="
 }
