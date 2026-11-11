@@ -1,10 +1,10 @@
 {
-  "version": "1.2.26",
-  "notes": "Presets ride out Premiere's busy spells; restart reminder",
-  "bundle": "releases/fxdrop-1.2.26.bundle",
-  "sha256": "4e7686950e0362a7f07f0e7c1dc77a9b0b9209a3189543b51c59da7c1fed7005",
-  "size": 600314,
+  "version": "1.2.27",
+  "notes": "Smart paste lands on free tracks again",
+  "bundle": "releases/fxdrop-1.2.27.bundle",
+  "sha256": "51e9c795a4cb1cea651c22de8a365fbd337b6ff4036d94144316c4269a4dc13c",
+  "size": 601794,
   "minElectron": "44.0.0",
-  "date": "2026-11-11T12:29:29.897Z",
-  "signature": "iYIOR7hhtziCPnrPv6UNh2m4XNVvu8X//rV8Tu0nl85I2eQFWzLJxKfy5YIadqy2Ciao0n3QKYLuCALTEaiLAA=="
+  "date": "2026-11-11T13:11:31.760Z",
+  "signature": "OxDU5nRYhfOAvFuhZRzfjDHbLnsf0qkTrVCTsdxWjwtT6fUmMfNQHGpQvXKIm06qrQPeNzzYaJdYFEPHp/SCAw=="
 }
