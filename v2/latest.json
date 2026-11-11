@@ -1,10 +1,10 @@
 {
-  "version": "1.2.24",
-  "notes": "Star profiles: a separate starred list per channel",
-  "bundle": "releases/fxdrop-1.2.24.bundle",
-  "sha256": "84329ad754bac14f8c55c50070c0676ee6f453545536feb0bd77c9aa8d8b0cfd",
-  "size": 595116,
+  "version": "1.2.25",
+  "notes": "Presets retry refused steps inside one undo step; profile picker list",
+  "bundle": "releases/fxdrop-1.2.25.bundle",
+  "sha256": "a4c6d726ff50216cc0c7dc606c6205b919a4d3a4cf38459315a375825d2fe414",
+  "size": 598229,
   "minElectron": "44.0.0",
-  "date": "2026-11-10T13:14:04.936Z",
-  "signature": "lDTsN8iU9p7wlWL36ZAZGeE7iUbYu5vylJ1CkPCGTcRp7XHIzj22fPpi7zqGDKCtUlksJM7zeyG3ZkYo+fsfDQ=="
+  "date": "2026-11-11T11:54:15.211Z",
+  "signature": "TT3A5WGZVvDX17k31ASq0Ov/hQhKEitJssXSFLWIz3yBJtJYLuQJVMWvG6JtTd+BaHhKcEvVUFQIL44yveEODg=="
 }
