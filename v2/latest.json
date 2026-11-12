@@ -1,10 +1,10 @@
 {
-  "version": "1.2.27",
-  "notes": "Smart paste lands on free tracks again",
-  "bundle": "releases/fxdrop-1.2.27.bundle",
-  "sha256": "51e9c795a4cb1cea651c22de8a365fbd337b6ff4036d94144316c4269a4dc13c",
-  "size": 601794,
+  "version": "1.2.28",
+  "notes": "Premiere 2027 now gets FX Drop's fixes",
+  "bundle": "releases/fxdrop-1.2.28.bundle",
+  "sha256": "cc75353bc8e583c2095067b92f4c94dbc04d81449c4fbf3f223a8a4d7a00a448",
+  "size": 602989,
   "minElectron": "44.0.0",
-  "date": "2026-11-11T13:11:31.760Z",
-  "signature": "OxDU5nRYhfOAvFuhZRzfjDHbLnsf0qkTrVCTsdxWjwtT6fUmMfNQHGpQvXKIm06qrQPeNzzYaJdYFEPHp/SCAw=="
+  "date": "2026-11-12T11:15:41.916Z",
+  "signature": "AbNPyWaya+YHyjbbNHJSUnyXQkfgbXdAa5AZMOzKIW+Fa4iclOBeQyc7nQdMU4cSdfbdBs187N13sDtPlHXnAg=="
 }
