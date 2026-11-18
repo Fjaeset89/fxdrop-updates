@@ -1,10 +1,10 @@
 {
-  "version": "1.2.29",
-  "notes": "The shortcut always opens FX Drop in Premiere",
-  "bundle": "releases/fxdrop-1.2.29.bundle",
-  "sha256": "94f9f0c4f04776e1169c5743a98f15040f0ff21f729f317e62e7f41bb756084f",
-  "size": 604042,
+  "version": "1.2.30",
+  "notes": "Sounds start right at the playhead",
+  "bundle": "releases/fxdrop-1.2.30.bundle",
+  "sha256": "b07c5b6aeb48e9cb00d460c7207c267a1a96da1820764a85709aaa4bd746148a",
+  "size": 606325,
   "minElectron": "44.0.0",
-  "date": "2026-11-18T10:34:08.196Z",
-  "signature": "iWUiA4SMhiajt3wIpVtjJcQWBf3+YFuxCb/V9GZhxFNFSlqerebCvtonIUre3djGrKyU4QVWkPq/AXwfv73zBQ=="
+  "date": "2026-11-18T11:11:51.085Z",
+  "signature": "IGwayj/zGruE0+rz82kvimkL5h8gUcTFoOlB0QLDoG81cLLgJQpq6INbMmi4imFkI8TxCzzxOvTOPDat2Qp1BA=="
 }
