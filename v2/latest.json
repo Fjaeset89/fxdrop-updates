@@ -1,10 +1,10 @@
 {
-  "version": "1.2.31",
-  "notes": "Search box no longer opens invisibly",
-  "bundle": "releases/fxdrop-1.2.31.bundle",
-  "sha256": "8fecf2f1d61e75b8f53d62766868e021a14b69ca67fedffb22122df946d8027d",
-  "size": 608647,
+  "version": "1.2.32",
+  "notes": "Fewer Restart Premiere reminders",
+  "bundle": "releases/fxdrop-1.2.32.bundle",
+  "sha256": "e2be818f0cef4599b25cfd9613a007dcbec8b26784a629f6cf5d4099941f02bf",
+  "size": 608905,
   "minElectron": "44.0.0",
-  "date": "2026-11-23T09:31:55.509Z",
-  "signature": "znbccfwSZy09sX0jAa/eC12T5ZLtEBumF6gcWfcuddWpX7ND9Z8lOYU4Qw3f0f5wuVLfkdXkKVTvfrNrCSCjCw=="
+  "date": "2026-11-23T09:34:17.049Z",
+  "signature": "FL5gNid/3raRlks3NyneS7aSyulyLkAmQGG2y3EcsOX7iTs67HvX8hHvNlFjoCH9y+6ZqWEdkpvdaOCqpC6MCw=="
 }
