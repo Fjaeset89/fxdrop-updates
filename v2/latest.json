@@ -1,10 +1,10 @@
 {
-  "version": "1.2.30",
-  "notes": "Sounds start right at the playhead",
-  "bundle": "releases/fxdrop-1.2.30.bundle",
-  "sha256": "b07c5b6aeb48e9cb00d460c7207c267a1a96da1820764a85709aaa4bd746148a",
-  "size": 606325,
+  "version": "1.2.31",
+  "notes": "Search box no longer opens invisibly",
+  "bundle": "releases/fxdrop-1.2.31.bundle",
+  "sha256": "8fecf2f1d61e75b8f53d62766868e021a14b69ca67fedffb22122df946d8027d",
+  "size": 608647,
   "minElectron": "44.0.0",
-  "date": "2026-11-18T11:11:51.085Z",
-  "signature": "IGwayj/zGruE0+rz82kvimkL5h8gUcTFoOlB0QLDoG81cLLgJQpq6INbMmi4imFkI8TxCzzxOvTOPDat2Qp1BA=="
+  "date": "2026-11-23T09:31:55.509Z",
+  "signature": "znbccfwSZy09sX0jAa/eC12T5ZLtEBumF6gcWfcuddWpX7ND9Z8lOYU4Qw3f0f5wuVLfkdXkKVTvfrNrCSCjCw=="
 }
