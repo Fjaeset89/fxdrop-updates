@@ -1,10 +1,10 @@
 {
-  "version": "1.2.32",
-  "notes": "Fewer Restart Premiere reminders",
-  "bundle": "releases/fxdrop-1.2.32.bundle",
-  "sha256": "e2be818f0cef4599b25cfd9613a007dcbec8b26784a629f6cf5d4099941f02bf",
-  "size": 608905,
+  "version": "1.2.33",
+  "notes": "New adjustment layer at the playhead",
+  "bundle": "releases/fxdrop-1.2.33.bundle",
+  "sha256": "2ac94a215e39533bebaf99281f4f8c2ecbb40c24fa72f7075ab5fc9dfb30ac5d",
+  "size": 609588,
   "minElectron": "44.0.0",
-  "date": "2026-11-23T09:34:17.049Z",
-  "signature": "FL5gNid/3raRlks3NyneS7aSyulyLkAmQGG2y3EcsOX7iTs67HvX8hHvNlFjoCH9y+6ZqWEdkpvdaOCqpC6MCw=="
+  "date": "2026-11-23T10:12:15.489Z",
+  "signature": "mY0ZiR2C0zKpjda2BD/5ZbPFLiemDwU6zPSxQiJTP2hAojUYu/hgwEvS3HeNjPX1sxOfoSahc1n1p423oAp0CQ=="
 }
