@@ -1,10 +1,10 @@
 {
-  "version": "1.2.34",
-  "notes": "Pasting finds what you copied; paste video and sound files",
-  "bundle": "releases/fxdrop-1.2.34.bundle",
-  "sha256": "8a933dd1193751acb5bfa9bf617bc96ca011ec7b6a4f120c9ce9a389df99aa4a",
-  "size": 611485,
+  "version": "1.2.35",
+  "notes": "Pasting pictures is fast and reliable",
+  "bundle": "releases/fxdrop-1.2.35.bundle",
+  "sha256": "bba1abc3456db0e63447a440144362e3a513d83089c37afc21d9bfcafcda8c71",
+  "size": 615267,
   "minElectron": "44.0.0",
-  "date": "2026-11-24T15:16:07.208Z",
-  "signature": "a/Hp8/XTooCnvBU2OrJK+/SQURaFEId8RxS80pe/doOoDgV7tG80V5nYFZ69Un4bIOClGoILc6Vs49l7vqf6CA=="
+  "date": "2026-11-25T08:59:23.392Z",
+  "signature": "tGU/7eZi3hK1MWpcZnTzmPobXj9eem41RbEiOwwPFAt/ToN71ZyivRMUxNxw8xTP1Jrbnc/Qx8Kuhe8hazc5Dw=="
 }
