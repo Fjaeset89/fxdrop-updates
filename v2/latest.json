@@ -1,10 +1,10 @@
 {
-  "version": "1.2.35",
-  "notes": "Pasting pictures is fast and reliable",
-  "bundle": "releases/fxdrop-1.2.35.bundle",
-  "sha256": "bba1abc3456db0e63447a440144362e3a513d83089c37afc21d9bfcafcda8c71",
-  "size": 615267,
+  "version": "1.2.36",
+  "notes": "Smart paste is fast on long timelines",
+  "bundle": "releases/fxdrop-1.2.36.bundle",
+  "sha256": "604cd178ade821bca16bc6b723035453d874fc9928b262decad1dfde42a8aa60",
+  "size": 615854,
   "minElectron": "44.0.0",
-  "date": "2026-11-25T08:59:23.392Z",
-  "signature": "tGU/7eZi3hK1MWpcZnTzmPobXj9eem41RbEiOwwPFAt/ToN71ZyivRMUxNxw8xTP1Jrbnc/Qx8Kuhe8hazc5Dw=="
+  "date": "2026-11-25T09:03:17.777Z",
+  "signature": "D7gvGIX7y3Oe0X9z/u3DH4VfMSgffvTO9om3s+GCT+kUH3A5BRDZpdz4u6xAYySTM0p3dS3dSTbt8VO2nb+wCg=="
 }
